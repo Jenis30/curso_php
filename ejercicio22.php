@@ -26,5 +26,4 @@ echo $objsecretaria2 -> area;
 echo $objsecretaria -> persona."<br/>";
 echo $objsecretaria2 ->persona;
 
-
 ?>
