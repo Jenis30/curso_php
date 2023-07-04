@@ -2,7 +2,7 @@
 <?php 
 // variables
 
-$edad = 35;
+$edad = 38;
 
 echo $edad."<br/>";
 
